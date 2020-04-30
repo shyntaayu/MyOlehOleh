@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyOlehOleh</string>
+    <string name="nama">Nama</string>
+    <string name="status">Status</string>
+    <string name="save">Save</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="textview">TextView</string>
+    <string name="search">What Souvenirs Do You Want Today?</string>
+    <string name="news">News</string>
+    <string name="nearby">Nearby</string>
+    <string name="bestselling">Best Selling</string>
+    <string name="sby">Surabaya</string>
+    <string name="mlg">Malang</string>
+</resources>
